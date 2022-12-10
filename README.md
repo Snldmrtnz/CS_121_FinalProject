@@ -1,4 +1,5 @@
-![🧩Puzzle_Game](https://user-images.githubusercontent.com/118676134/206849164-6a4ba928-56f8-474f-aa46-a735cc1a2d58.png)
+![🧩Puzzle_Game (1)](https://user-images.githubusercontent.com/118676134/206849184-d9ceb5a1-b9bf-46ac-8707-aed5879016b6.png)
+
 
 
 # This is Heading
