@@ -22,13 +22,18 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
    - If pygame is not installed:
      - Install it by running your cmd as administrator and type: pip install pygame.
      - To check if it is installed: Type: import pygame again in your coding software.
-     = Download code/copy the code 
-      - main.py
-      - sprite.py
-      - Settings.py
+   - Download code/copy the code 
+     - main.py
+     - sprite.py
+     - Settings.py
 
-2. Running the game
-   - After copying all the 
+2. Run and Debug the code
+   
+3. Gameplay
+   - The general rule of the game is to fix the puzzle according to its numerical sequence ( 1, 2, 3, 4, 5, 6, 7, 8, ...)
+   - Click Shuffle to start the game
+   - Click Reset if you are stuck and cannot finish the game
+   - Exit button if you want to stop playing the game
 
 ## Contributing
 jawirjoawr
