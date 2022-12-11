@@ -16,7 +16,8 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
 
 - How to use:
 
--- ajkioksfoikasf
+1. Make sure that python is installed in your coding software. /break
+To Check:/break
 
 
 ## Contributing
