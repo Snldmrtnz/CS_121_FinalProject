@@ -12,8 +12,11 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
 - Pygame
 
 
-## Usage
-awkiorkjaiowkrioaw
+## Instructions
+
+- How to use:
+
+-- ajkioksfoikasf
 
 
 ## Contributing
