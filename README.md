@@ -14,10 +14,9 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
 
 ## Instructions
 
-- How to use:
-
-1. Make sure that python is installed in your coding software. /break
-To Check:/break
+1. How to use
+   - Make sure that python is installed in your coding software
+     - To check: Open Command Prompt > Type Python Or py > Hit Enter If Python Is Installed it will show the version Details Otherwise It will Open Microsoft Store To        Download From Microsoft Store.
 
 
 ## Contributing
