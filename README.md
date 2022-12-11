@@ -36,8 +36,7 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
    - Exit button if you want to stop playing the game
 
 ## Contributing
-jawirjoawr
+Sean Iliad L. Martinez
+  
 
 
-## License
-ajwiorjioawjr
