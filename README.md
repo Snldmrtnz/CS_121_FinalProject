@@ -1,4 +1,5 @@
-![🧩Puzzle_Game (1)](https://user-images.githubusercontent.com/118676134/206849184-d9ceb5a1-b9bf-46ac-8707-aed5879016b6.png)
+![🧩_P_u_z_z_l_e___G_a_m_e](https://user-images.githubusercontent.com/118676134/206903221-89b7d373-9b7f-485d-9d17-6067651bc2bf.png)
+
 
 
 # Introduction
