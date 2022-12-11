@@ -35,6 +35,28 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
    - Click Reset if you are stuck and cannot finish the game
    - Exit button if you want to stop playing the game
 
+## Classes
+- Game
+- Tile
+- UI Element
+- Button
+
+## Methods
+- create_game()
+- shuffle()
+- draw_tiles()
+- new()
+- run()
+- update()
+- draw_grid()
+- draw()
+- events()
+- click()
+- up()
+- left()
+- down()
+- right()
+
 ## Contributing
 Sean Iliad L. Martinez
   
