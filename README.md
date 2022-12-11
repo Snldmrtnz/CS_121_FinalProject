@@ -22,7 +22,7 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
    - If pygame is not installed:
      - Install it by running your cmd as administrator and type: pip install pygame.
      - To check if it is installed: Type: import pygame again in your coding software.
-   = Download code/copy the code 
+     = Download code/copy the code 
       - main.py
       - sprite.py
       - Settings.py
