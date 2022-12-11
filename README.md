@@ -34,6 +34,12 @@ In this puzzle game the solver is expected to put the tile in its corresponding 
    - Click Shuffle to start the game
    - Click Reset if you are stuck and cannot finish the game
    - Exit button if you want to stop playing the game
+   
+## Unified Modeling Language (UML)
+![UML 1](https://user-images.githubusercontent.com/118676134/206919873-80cfd58c-b111-4923-8e92-ceddb4ddb946.jpg)
+![UML 2](https://user-images.githubusercontent.com/118676134/206919880-3b650b52-9c73-4f10-ad08-0a926b71bdc1.jpg)
+
+
 
 ## Classes
 - Game
